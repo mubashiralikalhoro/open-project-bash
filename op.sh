@@ -32,7 +32,7 @@ function select_from_options(){
     # Loop through the options
     for ((i = 0; i < ${#options[@]}; i++)); do
         if [ $((i + 1)) -eq $selection ]; then
-        echo "-> ${options[i]}"
+        echo "👉 ${options[i]}"
         else
         echo "   ${options[i]}"
         fi

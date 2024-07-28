@@ -12,9 +12,7 @@ This Bash script helps you quickly open and manage your Android development envi
 
 ## Preview
 
-![Preview of the script in action](/preview.mov)
-
-_Replace `path/to/your/preview.gif` with the actual path to your preview GIF._
+![Preview of the script in action](/preview.gif)
 
 ## Prerequisites
 
